@@ -1,0 +1,10 @@
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\bin\Debug\tek sayı çift sayı.exe.config
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\bin\Debug\tek sayı çift sayı.exe
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\bin\Debug\tek sayı çift sayı.pdb
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek sayı çift sayı.csproj.AssemblyReference.cache
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek_sayı_çift_sayı.Form1.resources
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek_sayı_çift_sayı.Properties.Resources.resources
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek sayı çift sayı.csproj.GenerateResource.cache
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek sayı çift sayı.csproj.CoreCompileInputs.cache
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek sayı çift sayı.exe
+C:\Users\Win10\Desktop\ilkay py\c\tek sayı çift sayı\tek sayı çift sayı\obj\Debug\tek sayı çift sayı.pdb
